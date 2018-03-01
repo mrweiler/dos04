@@ -1,0 +1,79 @@
+---
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
+author: <small>Matthias Weiler</small>
+date: <small>03.03.2018</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: TRUE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# <small> What we did last <s>week</s> Thursday ... </small>
+
+----
+
+We faced technical difficulties
+
+----
+
+Then we looked at <br>
+scientific pitfalls
+
+----
+
+And we talked about possible<br>
+solutions to those problems
+
+----
+
+Any questions or anything to add?
+
+# <small>Last <s>week's</s> Thursday's homework</small>
+
+----
+
+Who of you <i>finally</i> did take a look at  <br>
+<a href="https://expfactory.github.io/expfactory/">The Experiment Factory</a>?
+
+----
+
+Who has questions about the research project?
+
+----
+
+Who has hopes ...?
+
+----
+
+Who has fears ...?
+
+# <small>Today:<br>Your personal open science project</small>
+
+
+# <small>Any more questions?</small>
+
+
+# <small>Preview: next Wednesday</small>
+
+----
+
+"Digital open scientist's toolbox Part II"
+
+----
+
+On Wednesday at 4:00 p.m.
+
+
+# <small>Homework</small>
+
+# <small>Thank you for your attention</small>
