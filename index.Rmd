@@ -32,7 +32,7 @@ scientific pitfalls
 ----
 
 And we talked about possible<br>
-solutions to those problems
+solutions to those pitfalls
 
 ----
 
@@ -42,26 +42,150 @@ Any questions or anything to add?
 
 ----
 
-Who of you <i>finally</i> did take a look at  <br>
+Who of you could <i>finally</i> take a look at  <br>
 <a href="https://expfactory.github.io/expfactory/">The Experiment Factory</a>?
 
 ----
 
-Who has questions about the research project?
-
-----
-
-Who has hopes ...?
+Who has hopes about <br>
+the research project?
 
 ----
 
 Who has fears ...?
 
+----
+
+Who has questions ...?
+
 # <small>Today:<br>Your personal open science project</small>
 
+# <small>Basic rule set</small>
+
+----
+
+\#1 Don't panic
+
+----
+
+\#2 If you do panic look at rule \#1
+
+----
+
+\#3 Plan what you are going to do
+
+----
+
+\#4 Do what you were planning to do
+
+----
+
+\#5 Write down what you <br>have actually done
+
+----
+
+Any questions?
+
+# <small>Research projects</small>
+
+----
+
+Choose 2 to 3 items <br>
+(surveys, experiments) from <br>
+<a href = "https://expfactory.github.io/experiments/"> 
+the experiment factory's list</a>
+
+----
+
+Keep the total duration <br>
+below one hour
+
+----
+
+Figure out how to score <br>
+the surveys/experiments <br>
+(<a href = "http://www.giyf.com/">Google is your friend</a>)
+
+----
+
+Add your research project to <br>
+the "Research projects" section <br>
+of the course on the OSF
+
+----
+
+Answer the eight preregistration <br>
+questions of <a href = "https://aspredicted.org/nfj4s.pdf">
+AsPredicted</a> and <br>
+make them available on the OSF
+
+----
+
+Any questions?
+
+# <small>Proposal presentations</small>
+
+----
+
+Prepare a short talk (5 minutes max)
+
+----
+
+Prepare slides for your talk
+
+----
+
+Bonus: use an open format <br>
+for your slides <br>
+P.S.: Powerpoint is not open
+
+----
+
+Upload your slides to the OSF
+
+----
+
+Slides should include <br>
+introduction, method section <br>
+and planned analysis
+
+----
+
+Any questions?
+
+# <small>Proposal review</small>
+
+----
+
+My suggestions...
+
+----
+
+Four research projects in total
+
+----
+
+Work in mixed teams <br>
+(i.e. Crete and Thessaloniki)
+
+----
+
+Select two projects from each university
+
+----
+
+Any other suggestions?
+
+----
+
+Who should select the projects?
+
+----
+
+How would you like to <br>
+select the projects?
 
 # <small>Any more questions?</small>
-
 
 # <small>Preview: next Wednesday</small>
 
@@ -75,5 +199,17 @@ On Wednesday at 4:00 p.m.
 
 
 # <small>Homework</small>
+
+----
+
+Start planning your research projects
+
+----
+
+If you are not listed as a <br>
+contributor of the research <br>
+projects in OSF send me an <br>
+email with the name you <br>
+registered with
 
 # <small>Thank you for your attention</small>
