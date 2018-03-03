@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# <small> What we did last <s>week</s> Thursday ... </small>
+# <small> What did we do last <s>week</s> Thursday?</small>
 
 ----
 
@@ -141,7 +141,7 @@ P.S.: Powerpoint is not open
 
 ----
 
-Upload your slides to the OSF
+Upload your slides to the <a href = "https://osf.io/">OSF</a>
 
 ----
 
@@ -161,7 +161,7 @@ My suggestions...
 
 ----
 
-Four research projects in total
+Select four research projects in total
 
 ----
 
