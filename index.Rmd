@@ -185,7 +185,28 @@ Who should select the projects?
 How would you like to <br>
 select the projects?
 
-# <small>Any more questions?</small>
+# <small>Some example projects</small>
+
+## <small>Do sensation seekers have <br>more interesting lifes?</small>
+
+- <a href = "https://expfactory-experiments.github.io/writing-task/">Writing task</a>
+- <a href = "https://expfactory-experiments.github.io/sensation-seeking-survey/">Sensation seeking survey</a>
+
+## <small>Does alcohol and drug <br>consumption impair reaction time?</small>
+
+- <a href = "https://expfactory-experiments.github.io/alcohol-drugs-survey/">Alcohol and drug survey</a>
+- <a href = "https://expfactory-experiments.github.io/simple-reaction-time/">Simple reaction time</a>
+
+## <small>Are men better in regulating <br>emotions than women?</small>
+
+- <a href = "https://expfactory-experiments.github.io/demographics-survey/">Demographics survey</a>
+- <a href = "https://expfactory-experiments.github.io/emotion-regulation/">Emotion regulation</a>
+
+# <small>Any questions left?</small>
+
+# <small>Any fears left?</small>
+
+# <small>Any hope left?</small>
 
 # <small>Preview: next Wednesday</small>
 
